@@ -1,0 +1,66 @@
+c:\users\clive\documents\visual studio 2015\Projects\AngularForms\AngularForms\bin\ApplicationInsights.config
+c:\users\clive\documents\visual studio 2015\Projects\AngularForms\AngularForms\bin\roslyn\csc.exe
+c:\users\clive\documents\visual studio 2015\Projects\AngularForms\AngularForms\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\clive\documents\visual studio 2015\Projects\AngularForms\AngularForms\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\clive\documents\visual studio 2015\Projects\AngularForms\AngularForms\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\clive\documents\visual studio 2015\Projects\AngularForms\AngularForms\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\clive\documents\visual studio 2015\Projects\AngularForms\AngularForms\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\clive\documents\visual studio 2015\Projects\AngularForms\AngularForms\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\clive\documents\visual studio 2015\Projects\AngularForms\AngularForms\bin\roslyn\System.Collections.Immutable.dll
+c:\users\clive\documents\visual studio 2015\Projects\AngularForms\AngularForms\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\clive\documents\visual studio 2015\Projects\AngularForms\AngularForms\bin\roslyn\vbc.exe
+c:\users\clive\documents\visual studio 2015\Projects\AngularForms\AngularForms\bin\roslyn\VBCSCompiler.exe
+c:\users\clive\documents\visual studio 2015\Projects\AngularForms\AngularForms\bin\roslyn\VBCSCompiler.exe.config
+c:\users\clive\documents\visual studio 2015\Projects\AngularForms\AngularForms\bin\AngularForms.dll.config
+c:\users\clive\documents\visual studio 2015\Projects\AngularForms\AngularForms\bin\AngularForms.dll
+c:\users\clive\documents\visual studio 2015\Projects\AngularForms\AngularForms\bin\AngularForms.pdb
+c:\users\clive\documents\visual studio 2015\Projects\AngularForms\AngularForms\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\clive\documents\visual studio 2015\Projects\AngularForms\AngularForms\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\clive\documents\visual studio 2015\Projects\AngularForms\AngularForms\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\clive\documents\visual studio 2015\Projects\AngularForms\AngularForms\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\clive\documents\visual studio 2015\Projects\AngularForms\AngularForms\bin\Microsoft.AI.Web.dll
+c:\users\clive\documents\visual studio 2015\Projects\AngularForms\AngularForms\bin\Microsoft.AI.WindowsServer.dll
+c:\users\clive\documents\visual studio 2015\Projects\AngularForms\AngularForms\bin\Microsoft.ApplicationInsights.dll
+c:\users\clive\documents\visual studio 2015\Projects\AngularForms\AngularForms\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\clive\documents\visual studio 2015\Projects\AngularForms\AngularForms\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\clive\documents\visual studio 2015\Projects\AngularForms\AngularForms\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\clive\documents\visual studio 2015\Projects\AngularForms\AngularForms\bin\Microsoft.AI.Web.xml
+c:\users\clive\documents\visual studio 2015\Projects\AngularForms\AngularForms\bin\Microsoft.AI.WindowsServer.xml
+c:\users\clive\documents\visual studio 2015\Projects\AngularForms\AngularForms\bin\Microsoft.ApplicationInsights.xml
+c:\users\clive\documents\visual studio 2015\Projects\AngularForms\AngularForms\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\clive\documents\visual studio 2015\Projects\AngularForms\AngularForms\obj\Debug\AngularForms.csprojResolveAssemblyReference.cache
+c:\users\clive\documents\visual studio 2015\Projects\AngularForms\AngularForms\obj\Debug\AngularForms.dll
+c:\users\clive\documents\visual studio 2015\Projects\AngularForms\AngularForms\obj\Debug\AngularForms.pdb
+C:\Users\Clive\Documents\GitHub\AngularBootstrapMVC5\AngularForms\bin\ApplicationInsights.config
+C:\Users\Clive\Documents\GitHub\AngularBootstrapMVC5\AngularForms\bin\roslyn\csc.exe
+C:\Users\Clive\Documents\GitHub\AngularBootstrapMVC5\AngularForms\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Clive\Documents\GitHub\AngularBootstrapMVC5\AngularForms\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Clive\Documents\GitHub\AngularBootstrapMVC5\AngularForms\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Clive\Documents\GitHub\AngularBootstrapMVC5\AngularForms\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Clive\Documents\GitHub\AngularBootstrapMVC5\AngularForms\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Clive\Documents\GitHub\AngularBootstrapMVC5\AngularForms\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Clive\Documents\GitHub\AngularBootstrapMVC5\AngularForms\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Clive\Documents\GitHub\AngularBootstrapMVC5\AngularForms\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Clive\Documents\GitHub\AngularBootstrapMVC5\AngularForms\bin\roslyn\vbc.exe
+C:\Users\Clive\Documents\GitHub\AngularBootstrapMVC5\AngularForms\bin\roslyn\VBCSCompiler.exe
+C:\Users\Clive\Documents\GitHub\AngularBootstrapMVC5\AngularForms\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Clive\Documents\GitHub\AngularBootstrapMVC5\AngularForms\bin\AngularForms.dll.config
+C:\Users\Clive\Documents\GitHub\AngularBootstrapMVC5\AngularForms\bin\AngularForms.dll
+C:\Users\Clive\Documents\GitHub\AngularBootstrapMVC5\AngularForms\bin\AngularForms.pdb
+C:\Users\Clive\Documents\GitHub\AngularBootstrapMVC5\AngularForms\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Clive\Documents\GitHub\AngularBootstrapMVC5\AngularForms\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Clive\Documents\GitHub\AngularBootstrapMVC5\AngularForms\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Clive\Documents\GitHub\AngularBootstrapMVC5\AngularForms\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Clive\Documents\GitHub\AngularBootstrapMVC5\AngularForms\bin\Microsoft.AI.Web.dll
+C:\Users\Clive\Documents\GitHub\AngularBootstrapMVC5\AngularForms\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Clive\Documents\GitHub\AngularBootstrapMVC5\AngularForms\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Clive\Documents\GitHub\AngularBootstrapMVC5\AngularForms\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Clive\Documents\GitHub\AngularBootstrapMVC5\AngularForms\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Clive\Documents\GitHub\AngularBootstrapMVC5\AngularForms\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Clive\Documents\GitHub\AngularBootstrapMVC5\AngularForms\bin\Microsoft.AI.Web.xml
+C:\Users\Clive\Documents\GitHub\AngularBootstrapMVC5\AngularForms\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Clive\Documents\GitHub\AngularBootstrapMVC5\AngularForms\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Clive\Documents\GitHub\AngularBootstrapMVC5\AngularForms\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Clive\Documents\GitHub\AngularBootstrapMVC5\AngularForms\obj\Debug\AngularForms.csprojResolveAssemblyReference.cache
+C:\Users\Clive\Documents\GitHub\AngularBootstrapMVC5\AngularForms\obj\Debug\AngularForms.dll
+C:\Users\Clive\Documents\GitHub\AngularBootstrapMVC5\AngularForms\obj\Debug\AngularForms.pdb
