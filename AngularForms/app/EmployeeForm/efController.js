@@ -1,6 +1,6 @@
 ﻿
 angularFormsApp.controller('efController',
-    function efController($scope, $window, $routeParams, DataService) {
+    function efController($scope, $window, $routeParams, $modalInstance, DataService) {
 
         if ($routeParams.id)
             $scope.employee = DataService.getEmployee($routeParams.id);
@@ -16,6 +16,17 @@ angularFormsApp.controller('efController',
                 "Administration"
         ];
 
+        $scope.programmingLanguages = [
+            "C",
+            "C++",
+            "C#",
+            "JavaScript",
+            "Java",
+            "Pascal",
+            "Perl",
+            "PHP"
+        ];
+
         $scope.submitForm = function () {
             if ($scope.editableEmployee.id == 0) {
                 //Insert new employee
@@ -26,10 +37,12 @@ angularFormsApp.controller('efController',
             }
 
             $scope.employee = angular.copy($scope.editableEmployee);
-            $window.history.back();
+            //$window.history.back();
+            $modalInstance.close();
         }
 
         $scope.cancelForm = function () {
-            $window.history.back();
+            //$window.history.back();
+            $modalInstance.dismiss();
         }
     });
