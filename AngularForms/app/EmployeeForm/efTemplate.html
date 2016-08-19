@@ -3,15 +3,25 @@
 </div>
 
 <div class="modal-body">
-    <form class="form-horizontal" role="form">
+    <form class="form-horizontal" name="employeeForm" novalidate role="form">
         <fieldset>
             <legend>Basic Information</legend>
 
-            <div class="form-group">
+            <div class="form-group" ng-class="{'has-error' : employeeForm.fullName.$invalid && employeeForm.fullName.$dirty}">
                 <label for="fullName" class="col-sm-3 control-label">Name</label>
                 <div class="col-sm-9">
                     <input type="text" id="fullName" name="fullName" class="form-control"
-                           ng-model="editableEmployee.fullName" />
+                           ng-model="editableEmployee.fullName" ng-required="shouldShowFullName()" />
+                    <span class="help-block" ng-show="employeeForm.fullName.$error.required && employeeForm.fullName.$dirty}">Full Name is required</span>
+                </div>
+            </div>
+
+            <div class="form-group" ng-class="{'has-error' : employeeForm.email.$invalid && employeeForm.email.$dirty}">
+                <label for="email" class="col-sm-3 control-label">Email</label>
+                <div class="col-sm-9">
+                    <input type="email" id="email" name="email" class="form-control"
+                           ng-model="editableEmployee.email" ng-required="shouldShowFullName()" />
+                    <span class="help-block" ng-show="employeeForm.email.$invalid && employeeForm.email.$dirty}">A valid email is required</span>
                 </div>
             </div>
 
